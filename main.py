@@ -1,3 +1,3 @@
 import numpy as np
-A = np.array([1, 2, 3])
-print(2*A)
+A = np.array([3, 5, 6])
+print(3*A)
